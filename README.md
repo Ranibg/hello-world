@@ -2,4 +2,4 @@
 This repository is for practising the GitHub Flow.
 
 
-Our Project
+The Project.
